@@ -15,12 +15,11 @@ Dependencies
 - java
 - unzip
 
-Our playbooks provide these dependencies in a [common role](https://github.com/redhat-cop/ansible-middleware-playbooks/tree/master/roles/common), but this there is no explicitly ansible dependency to allow end users more options.
+Our playbooks provide these dependencies in a [common role](https://github.com/redhat-cop/ansible-role-jboss-common), but this there is no explicitly ansible dependency to allow end users more options.
 
 Example Playbooks
 ----------------
 
-- [JBoss Data Grid 6.6.0 on CentOS 7](https://github.com/redhat-cop/ansible-middleware-playbooks/blob/master/jdg-6.6.0-centos7.yml)
 - [JBoss Data Grid 6.6.0 on RHEL 7](https://github.com/redhat-cop/ansible-middleware-playbooks/blob/master/jdg-6.6.0-rhel7.yml)
 
 License
