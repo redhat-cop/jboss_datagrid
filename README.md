@@ -1,6 +1,6 @@
 # DEPRECATED - This repository is no longer maintained
 
-**Capabilities provided by this repository have migrated to the [ansible-middleware](https://github.com/ansible-middleware) project and specifically the [wildfly](https://github.com/ansible-middleware/infinispan) repository.**
+**Capabilities provided by this repository have migrated to the [ansible-middleware](https://github.com/ansible-middleware) project and specifically the [infinispan](https://github.com/ansible-middleware/infinispan) repository.**
 
 Ansible JBoss Data Grid Role [![Build Status](https://travis-ci.org/redhat-cop/jboss_datagrid.svg)](https://travis-ci.org/redhat-cop/jboss_datagrid)
 =================
